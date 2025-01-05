@@ -1,0 +1,11 @@
+name: playmusic
+version: 1.0
+main: com.example.playmusic.Main
+api-version: 1.19
+commands:
+  play:
+    description: Play music from a URL.
+    usage: /play <URL>
+  stop:
+    description: Stop the currently playing music.
+    usage: /stop

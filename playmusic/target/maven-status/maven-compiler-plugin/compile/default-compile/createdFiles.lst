@@ -1,0 +1,3 @@
+com\example\playmusic\commands\StopCommand.class
+com\example\playmusic\Main.class
+com\example\playmusic\commands\PlayCommand.class
